@@ -50,8 +50,8 @@ a {
 }
 
 a:hover{
-    background-color: #0088FF;
-    color: white;
+    background-color: white;
+    color: #0088ff;
     transform: scale(1.01);
     
 }
